@@ -5,4 +5,7 @@ baidu
 pics
 .DS_Store
 .gitignore~
+account
+__pycache__
+tmp.txt
 ..gitignore.un~
